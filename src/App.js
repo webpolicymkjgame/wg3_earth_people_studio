@@ -74,7 +74,7 @@ function HomePage() {
           <div className="about-text-container">
             <h2 className="highlight-title">Welcome to Earth People Studio</h2>
             <p className="about-text">
-            Earth People Studio creates fun, creative, and relaxing mobile games that spark imagination and bring joy to players of all ages – from designing unique phone cases and mixing tasty boba drinks, to playing with satisfying slime and enjoying a variety of mini games whenever and wherever you want.
+            Earth People Studio delivers fun and creative mobile games for everyone — from thrilling escapes in Horror Escape Nightmare, to hilarious battles in Pillow Fight – Fighting Games, brain-teasing challenges in Color Detective – Puzzle Game, and action-packed runs in Run Challenge: Block Survival. Each game is designed to spark imagination, bring excitement, and create joyful moments anytime, anywhere.
             </p>
           </div>
           <div className="about-img-container">
