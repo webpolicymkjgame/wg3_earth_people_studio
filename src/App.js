@@ -110,7 +110,7 @@ function HomePage() {
           <h2>Contact Us</h2>
           <p>
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
-            <a href="mailto:bangaloreagency2022@gmail.com">bangaloreagency2022@gmail.com</a><br />
+            <a href="mailto:angryjamstudio@gmail.com">angryjamstudio@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
               🏠 "Linh Dam, Hoang Liet
                 Ha Noi - 100000
